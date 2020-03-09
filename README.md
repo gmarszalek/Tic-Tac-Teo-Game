@@ -1,4 +1,4 @@
-# tic-tac-teo game
+# JavaScrit tic-tac-teo game
 
 - Advanced CSS Hover Effects
 - Advanced JS Game Logic
