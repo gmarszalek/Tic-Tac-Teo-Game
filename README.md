@@ -1,6 +1,9 @@
-# JavaScrit tic-tac-teo game
+# Tic-Tac-Teo game - small JavaScript app
 
-- Advanced CSS Hover Effects
-- Advanced JS Game Logic
-- CSS Not Selector
-- CSS Shape Building
+<ul>
+  <li>Aavanced CSS Hover Effects</li>
+  <li>Advanced JS Game Logic</li>
+  <li>CSS Not Selector</li>
+  <li>CSS Shape Building</li>
+</ul>
+
